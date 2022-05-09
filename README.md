@@ -6,3 +6,4 @@ MessageDecoder file: Interface that had the functions each cipher class should i
 MessageEncoder file: Interface that ahd the functions each cipher class should implement.
 ShuffleCipher file: Class that had all the properties for decrypting and encrypting a message using a shuffle cipher.
 SubstitutionCipher file: Class that had all the properties for decrypting and encrypting a message using a substitution cipher.
+
